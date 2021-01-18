@@ -1,0 +1,2 @@
+Arquivos CSV convertidos para SQL, o arquivo tabela_requerimentos precisa ser modificado. 
+O documento Análises_1, são pequenas análises que eu fiz, tipo, tem quase nada ASUAHSU, olhem ai. 
